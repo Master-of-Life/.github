@@ -1,12 +1,19 @@
-## Hi there 👋
+## 내 인생의 주인
+내 인생의 주인이 되어보세요.
 
-<!--
+### 오늘은 무슨날! (테마데이)
 
-**Here are some ideas to get you started:**
+### 당장 티브이 켜서 똑같은 음식 먹으러 가기
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 사랑을 베풀고 감사를 받기
+
+### 그냥 하는거야! 하고싶으니까!
+
+### 이 옷은 이 때 입어야지!
+옷은 추억을 가지고 있어. 이 옷은 어느 상황에 입어야지! 2022년 새해 일출을 볼 때 입어야지! 상황에 맞게 꼭 입고싶은 옷들이 있다면, 사 보도록 해!
+
+### 내가 이 머리를 하면 하루 하루가 행복해 지는 것 같아!
+헤어 디자인 비용이 비싸더라도 상관없어! 내가 이 하루가 ... 이 한달이 행복하다면 ...
+
+### 피부/건강 습관을 매일매일 실천하기!
+피부 관리를 위한 생활습관을 추가하고 노력해봐요! 운동도 포함이겠죠? 더 멋지고 예쁜 나를 위한 습관 이것만큼은 시간에 맞게 꼭 해보는 거에요!
